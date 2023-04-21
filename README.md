@@ -72,4 +72,4 @@
 <br>• <a href="linux.1">Linux.1</a>
 
 # ADD MY LINE
-<br> <a href="https://line.me/ti/p/~linux.1">`B O B B Y™</a>
+<br> <a href="https://line.me/ti/p/~linux.1">`T E A M  T E R M U X™</a>
