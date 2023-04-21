@@ -65,11 +65,12 @@
 
 # SPECIAL THANKS TO
 <br>• TEAM TERMUX / <a href="https://github.com/Zulkiflimok/zul4">@ZULKIFLI</a>
-<br>• TEAM TERMUX
+<br> <a href="https://line.me/ti/p/~linux.1">`T E A M  T E R M U X™</a>
+
 
 # SUPPORTED BY
 <br>• <a href="linux.1">TEAM TERMUX</a>
 <br>• <a href="linux.1">Linux.1</a>
 
 # ADD MY LINE
-<br> <a href="https://line.me/ti/p/~linux.1">`T E A M  T E R M U X™</a>
+<br> <a href="https://line.me/ti/p/~linux.1">LINUX™</a>
