@@ -64,12 +64,12 @@
 <br>BUAT YG MAU UBAH SILAHKAN UP SUKA SUKA
 
 # SPECIAL THANKS TO
-<br>• Arifistifik / <a href="https://github.com/Zulkiflimok/zul4">@ZULKIFLI</a>
+<br>• TEAM TERMUX / <a href="https://github.com/Zulkiflimok/zul4">@ZULKIFLI</a>
 <br>• TEAM TERMUX
 
 # SUPPORTED BY
-<br>• <a href="linux.1">We Bare Bears Corps™</a>
-<br>• <a href="linux.1">B-G-N Squad</a>
+<br>• <a href="linux.1">TEAM TERMUX</a>
+<br>• <a href="linux.1">Linux.1</a>
 
 # ADD MY LINE
 <br> <a href="https://line.me/ti/p/~linux.1">`B O B B Y™</a>
