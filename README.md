@@ -69,8 +69,8 @@
 
 
 # SUPPORTED BY
-<br>• <a href="linux.1">TEAM TERMUX</a>
-<br>• <a href="linux.1">Linux.1</a>
+<br>• <a href="https://line.me/ti/p/~linux.1">TEAM TERMUX</a>
+<br>• <a href="https://line.me/ti/p/~linux.1">Linux.1</a>
 
 # ADD MY LINE
 <br> <a href="https://line.me/ti/p/~linux.1">LINUX™</a>
